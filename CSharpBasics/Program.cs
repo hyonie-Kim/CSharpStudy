@@ -24,6 +24,8 @@ namespace CSharpBasics
             // 입력 받은 문자열 출력
             Console.WriteLine("입력 받은 문자열: " + input);
 
+
+
         }
     }
 }
